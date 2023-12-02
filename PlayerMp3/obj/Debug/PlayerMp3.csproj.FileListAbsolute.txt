@@ -1,0 +1,30 @@
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe.config
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.pdb
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.ResolveComReference.cache
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.Form1.resources
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.Properties.Resources.resources
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.GenerateResource.cache
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.CoreCompileInputs.cache
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.exe
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.pdb
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe.manifest
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.application
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.exe.manifest
+C:\Users\Ishhit\Desktop\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.application
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe.config
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe.manifest
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.application
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.exe
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\bin\Debug\PlayerMp3.pdb
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.ResolveComReference.cache
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.Form1.resources
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.Properties.Resources.resources
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.GenerateResource.cache
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.csproj.CoreCompileInputs.cache
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.exe.manifest
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.application
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.exe
+C:\Users\Ishhit\Desktop\Program C#\My Projects on C#\PlayerMp3\PlayerMp3\obj\Debug\PlayerMp3.pdb
